@@ -44,8 +44,5 @@
 			</div>
 						
 		</div>
-		<div>
-			HOLAAAAA:P
-		</div>
-	</div> 
+	</div>
 <!-- /portfolio section -->
